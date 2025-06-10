@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, this is Hao Sun 
 
 <!--
 **Garyson1204/Garyson1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I’m currently pursuing the M.S. degree in computer science with Beijing University of Posts and Telecommunications, China. 
+- My research interests include camouflaged object detection, video camouflaged object detection, and video generation.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garyson1204)](https://github.com/Garyson1204/github-readme-stats)
