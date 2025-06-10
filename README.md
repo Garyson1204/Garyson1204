@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Garyson1204&show_icons=true&theme=gotham" alt="Garyson1204" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Garyson1204&show_icons=true&theme=gotham" alt="Garyson1204" />
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garyson1204)](https://github.com/Garyson1204/github-readme-stats)
  -->
