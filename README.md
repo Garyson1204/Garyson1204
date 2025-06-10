@@ -1,4 +1,4 @@
-## 👋 Hi, this is Hao Sun 
+## 👋 Hi, this is Hao Sun. 
 
 <!--
 **Garyson1204/Garyson1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
