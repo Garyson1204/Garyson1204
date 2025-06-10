@@ -20,6 +20,7 @@ Here are some ideas to get you started:
  
 - 🎓 I’m currently pursuing the M.S. degree in computer science with Beijing University of Posts and Telecommunications, China. 
 - 💭 My research interests include camouflaged object detection, video camouflaged object detection, and video generation.
+- 📫 How to reach me: sunhao0504@bupt.edu.cn
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garyson1204)](https://github.com/Garyson1204/github-readme-stats)
