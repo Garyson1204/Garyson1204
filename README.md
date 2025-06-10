@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📈 My GitHub stats
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Garyson1204&show_icons=true&theme=gotham" alt="Garyson1204" />
  
-- I’m currently pursuing the M.S. degree in computer science with Beijing University of Posts and Telecommunications, China. 
-- My research interests include camouflaged object detection, video camouflaged object detection, and video generation.
+- 🎓 I’m currently pursuing the M.S. degree in computer science with Beijing University of Posts and Telecommunications, China. 
+- 💭 My research interests include camouflaged object detection, video camouflaged object detection, and video generation.
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garyson1204)](https://github.com/Garyson1204/github-readme-stats)
