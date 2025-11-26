@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" src="https://img.shields.io/badge/dynamic/json?color=blue&label=GitHub%20Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGaryson1204" width="200">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Garyson1204&show_icons=true&theme=gotham" alt="Garyson1204" width="420">
  
 - 🎓 I’m currently pursuing the M.S. degree in computer science with Beijing University of Posts and Telecommunications, China. 
 - 💭 My research interests include camouflaged object detection, video camouflaged object detection, and video generation.
