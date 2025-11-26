@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Garyson1204&show_icons=true&theme=gotham" alt="Garyson1204" width="420">
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=Garyson1204&theme=algolia" width="420">
  
 - 🎓 I’m currently pursuing the M.S. degree in computer science with Beijing University of Posts and Telecommunications, China. 
 - 💭 My research interests include camouflaged object detection, video camouflaged object detection, and video generation.
