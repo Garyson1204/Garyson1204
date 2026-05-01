@@ -1,5 +1,5 @@
 
-# 👋 Hi, this is Hao Sun.
+## 👋 Hi, this is Hao Sun.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Garyson1204&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
