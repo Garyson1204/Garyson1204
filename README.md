@@ -1,4 +1,3 @@
-<div align="center">
 
 # 👋 Hi, this is Hao Sun.
 
