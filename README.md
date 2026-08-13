@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=Garyson1204&theme=gotham" alt="Garyson1204" width="420" />
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=Garyson1204&theme=react-dark" alt="Garyson1204" width="420" />
 
 - 🎓 I received the M.S. degree from Beijing University of Posts and Telecommunications in 2026. I‘m currently pursuing the Ph.D. degree with Sun Yat-sen University Shenzhen Campus, China.
 - 💭 My research interests include camouflaged object detection, video camouflaged object detection, and video generation.
