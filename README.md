@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🎓 I received the M.S. degree from Beijing University of Posts and Telecommunications in 2026. I‘m currently pursuing the Ph.D. degree with Sun Yat-sen University Shenzhen Campus, China.
 - 💭 My research interests include camouflaged object detection, video camouflaged object detection, and video generation.
-- 📫 How to reach me: haosun.academic@gmail.com
+<!--- 📫 How to reach me: haosun.academic@gmail.com  -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garyson1204)](https://github.com/Garyson1204/github-readme-stats)
  -->
