@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garyson1204&theme=gotham" alt="Garyson1204" width="620" />
-
 - 🎓 I received the M.S. degree from Beijing University of Posts and Telecommunications in 2026. I‘m currently pursuing the Ph.D. degree with Sun Yat-sen University Shenzhen Campus, China.
 - 💭 My research interests include camouflaged object detection, video camouflaged object detection, and video generation.
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garyson1204&theme=gotham" alt="Garyson1204" width="620" />
+
+
 
 <!-- <img src="https://vercel.app" alt="Garyson1204" width="620" /> -->
 
