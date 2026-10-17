@@ -21,10 +21,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎓 I received the M.S. degree from Beijing University of Posts and Telecommunications in 2026. I‘m currently pursuing the Ph.D. degree with Sun Yat-sen University Shenzhen Campus, China.
+<a href="https://github.com/Garyson1204">
+  <img
+    align="right"
+    width="42%"
+    src="https://github-readme-stats.vercel.app/api?username=Garyson1204&show_icons=true"
+    alt="Hao Sun's GitHub Stats"
+  />
+</a>
+
+- 🎓 I received the M.S. degree from Beijing University of Posts and Telecommunications in 2026. I'm currently pursuing the Ph.D. degree at Sun Yat-sen University, Shenzhen Campus, China.
+
 - 💭 My research interests include camouflaged object detection, video camouflaged object detection, and vision-language recognition.
 
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garyson1204&theme=gotham" alt="Garyson1204" width="620" /></div>
+<br clear="both" />
+
+<!-- <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garyson1204&theme=gotham" alt="Garyson1204" width="620" /></div> -->
 
 
 
