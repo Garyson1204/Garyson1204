@@ -24,9 +24,11 @@ Here are some ideas to get you started:
   />
 </a>
 
-- 🎓 I received the M.S. degree from Beijing University of Posts and Telecommunications in 2026. I'm currently pursuing the Ph.D. degree at Sun Yat-sen University, Shenzhen Campus, China.
+- 🎓 I received the M.S. degree from Beijing University of Posts and Telecommunications in 2026. I'm currently pursuing the Ph.D. degree with Sun Yat-sen University, Shenzhen Campus, China.
 
 - 💭 My research interests include camouflaged object detection, video camouflaged object detection, and vision-language recognition.
+
+- 📫 How to reach me: haosun.academic@gmail.com
 
 <br clear="both" />
 
