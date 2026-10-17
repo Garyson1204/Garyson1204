@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 - 💭 My research interests include camouflaged object detection, video camouflaged object detection, and vision-language recognition.
 
-- 📫 How to reach me: haosun.academic@gmail.com
-
 <br clear="both" />
 
 <!-- <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garyson1204&theme=gotham" alt="Garyson1204" width="620" /></div> -->
