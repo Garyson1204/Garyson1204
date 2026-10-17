@@ -1,12 +1,6 @@
 
 ## 👋 Hi, this is Hao Sun.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Garyson1204&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
-  <img src="https://img.shields.io/github/stars/Garyson1204?label=Stars&style=flat&color=yellow" alt="stars"/>
-</p>
-
-
 <!--
 **Garyson1204/Garyson1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
